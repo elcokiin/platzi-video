@@ -8,7 +8,7 @@
 body {
     background-color: #8f57fd;
     font-family: 'Mulish', sans-serif;
-    color: #fff;
+    color: #f9f9f9;
 }
 
 /* HEADER */
@@ -56,7 +56,7 @@ header {
 }
 
 .navbar__menu--profile p {
-    color: #fff;
+    color: #f9f9f9;
     padding-top: 10px;
     padding-bottom: 5px;
 }
@@ -74,7 +74,7 @@ header {
     margin: 10px 0;
 }
 .navbar__menu--ul li a {
-    color: #fff;
+    color: #f9f9f9;
     text-decoration: none;
 }   
 
@@ -94,13 +94,13 @@ header {
 }
 
 .section-serch__title {
-    color: #fff;
+    color: #f9f9f9;
     font-size: 25px;
     margin-bottom: 25px;
 }
 
 .input-serch {
-    border: 2px solid #fff;
+    border: 2px solid #f9f9f9;
     border-radius: 40px;
     color: #f9f9f9;
     font-family: 'Mulish', sans-serif;
@@ -112,7 +112,7 @@ header {
     outline: none;
 }
 ::placeholder {
-    color: #fff;
+    color: #f9f9f9;
 }
 
 /* CAROUSEL THE IMAGES */
@@ -125,7 +125,7 @@ header {
 }
 
 .carousel h4 {
-    color: #fff;
+    color: #f9f9f9;
 }
 
 .carousel__container {
@@ -192,14 +192,15 @@ header {
 footer {
     display: flex;
     align-items: center;
+    justify-content: space-around;
     width: 100%;
     height: 100px;
-    background: #ab88ff;
+    background: #8f57fd;
     padding: 30px 10px;
 }
 
 footer a {
-    color: #fff;
+    color: #f9f9f9;
     font-size: 14px;
     padding-left: 30px;
     text-decoration: none;

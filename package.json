@@ -1,0 +1,19 @@
+{
+  "name": "platzi-video",
+  "version": "1.0.0",
+  "description": "videos free of platzi youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tenjodiego961/platzi-video.git"
+  },
+  "author": "Diego Tenjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenjodiego961/platzi-video/issues"
+  },
+  "homepage": "https://github.com/tenjodiego961/platzi-video#readme"
+}
